@@ -18,10 +18,7 @@ I'm a passionate beginner on the journey to becoming a Python engineer and landi
 - Functional Programming in Python
 - Algorithms & Data Structures in Python
 - Git
-
-**Currently learning:** SQL (boot.dev course)
-
----
+- SQL
 
 ## 🛠️ Projects
 
