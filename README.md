@@ -11,7 +11,7 @@ I'm a passionate beginner on the journey to becoming a Python engineer and landi
 - **Started programming:** April 2025  
 - **Focus:** Python, problem-solving, and building real-world projects
 
-### 📚 Courses Completed on [boot.dev](https://boot.dev)
+### 📚 Courses Completed on [boot.dev](https://www.boot.dev/u/yourfriendtanya)
 
 - Python Language
 - Object-Oriented Programming (OOP) in Python
