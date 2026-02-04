@@ -24,7 +24,7 @@ Stay tuned—my repositories and READMEs are being updated to better reflect my 
 
 ## 📫 Connect with Me
 
-![LinkedIn](https://www.linkedin.com/in/tetiana-malik-8bb32335a/)
+ ![LinkedIn](https://www.linkedin.com/in/tetiana-malik-8bb32335a/)
 
 ---
 
